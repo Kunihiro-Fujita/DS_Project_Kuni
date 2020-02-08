@@ -2,8 +2,8 @@ Project_DS
 ==============================
 
 A short description of the project.
-I plan to tackle with the analysis of UCI Spambase Dataset. Then, I try to look for which indicator or predictor can distinguish spam from non-spam mail.
-Data Source is here.
+I plan to tackle with the analysis of UCI Spambase Dataset. Then, I try to look for which indicator or predictor can distinguish spam from non-spam mail.<br>
+Data Source is below.<br>
 https://archive.ics.uci.edu/ml/datasets/Spambase
 
 Project Organization
