@@ -5,7 +5,9 @@ A short description of the project.
 I plan to tackle with the analysis of UCI Spambase Dataset.<br>
 Then, I try to look for which indicator or predictor can distinguish spam from non-spam mail.<br>
 Data Source is below.<br>
-https://archive.ics.uci.edu/ml/datasets/Spambase
+https://www.kaggle.com/uciml/sms-spam-collection-dataset
+<br>
+"The work I submitted represents my work and my work alone.  I abode by the academic integrity policy and I am aware of the consequences associated with engaging in academic misconduct. "
 
 Project Organization
 ------------
