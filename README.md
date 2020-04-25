@@ -5,7 +5,7 @@ I tackle with the analysis of SMS Spam Collection Dataset.<br>
 I try to predict which SMS is ham or spam.<br>
 Data Source is below.<br>
 https://www.kaggle.com/uciml/sms-spam-collection-dataset<br>
-## Reference
+## References
 In this project, the analysis and models are based on the following nice sites.<br>
 - https://www.kaggle.com/dejavu23/sms-spam-or-ham-beginner
 - https://www.kaggle.com/muzzzdy/sms-spam-detection-with-various-classifiers<br>
