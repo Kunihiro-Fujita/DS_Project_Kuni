@@ -1,11 +1,17 @@
 Project_DS
 ==============================
-
 A short description of the project.
-I plan to tackle with the analysis of UCI Spambase Dataset.<br>
-Then, I try to look for which indicator or predictor can distinguish spam from non-spam mail.<br>
+I tackle with the analysis of SMS Spam Collection Dataset.<br>
+I try to predict which SMS is ham or spam.<br>
 Data Source is below.<br>
-https://www.kaggle.com/uciml/sms-spam-collection-dataset
+https://www.kaggle.com/uciml/sms-spam-collection-dataset<br>
+# Reference
+In this project, the analysis and models are based on the following nice sites.<br>
+- https://www.kaggle.com/dejavu23/sms-spam-or-ham-beginner
+- https://www.kaggle.com/muzzzdy/sms-spam-detection-with-various-classifiers
+
+<br>
+# Oath 
 <br>
 "The work I submitted represents my work and my work alone.  I abode by the academic integrity policy and I am aware of the consequences associated with engaging in academic misconduct. "
 
