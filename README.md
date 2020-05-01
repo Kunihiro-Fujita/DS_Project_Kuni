@@ -1,7 +1,7 @@
 ###### T81-577: Applied Data Science for Practioners
  - Instructor: Asim Banskota, School of Engineering and Applied Science, Washington University in St. Louis
 # The Final Project
-#### Name: Kunihiro Fujita
+#### Name: Kunihiro Fujita. Date: April 30. 2020
 ==============================
 ### Project
 The analysis of SMS Spam Collection Dataset.<br>
