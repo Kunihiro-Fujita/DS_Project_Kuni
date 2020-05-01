@@ -13,9 +13,12 @@ From the cyber secuirty perspective, spam/phishing e-mail attack is a typical wa
 Based on such problem awareness, I try to analyze SMS Spam dataset and deepen understanding of it as an information security person.
 At the same time, I tyr to apply various algorithms for predictive modeling I've learned through this lecture and improve my skill on them. 
 
-### Comments on this project
-To complete this project, I searched a lot of websites and learned a lot from then. To complete this project, I searched a lot of websites and learned a lot from then. Especially, I've learned very much from the references shown below. To tell the truth, I used their methods in many parts and follow their way basically. My original parts are limited. Still, I sought to incorporate as much as I could. Besides, I investigated this data set broadly by using 11 algorithms.
-In this project, the main personal goal is to acquire basic skills, methods, and concepts that are necessary for developing an effective project and analysis.  
+### Comments on using/citing the codes in references in this project
+To complete this project, I searched a lot of websites and learned a lot from then. To complete this project, I searched a lot of websites and learned a lot from then. Especially, I've learned very much from the references shown below. To tell the truth, I used/cited their methods in many parts and follow their way basically. In this sense, my original work is limited. Still, I sought to incorporate as much as I could. Besides, I investigated this data set broadly by using 11 algorithms.
+In this project, the main personal goal is to acquire basic skills, methods, and concepts that are necessary for developing an effective project and analysis.
+
+### Main Program
+The main program is placed under the 'notebooks' directory. The filename is 'Final_Project_0430.ipynb'.
 
 ### References
 In this project, the analysis and models are based on the following nice sites.<br>
